@@ -1,0 +1,12 @@
+.avatar-about{
+    height:450px;
+    width:600px;
+    display:flex;
+    
+    align-items:center;
+}
+.background-about{
+    display:flex;
+    justify-content:center;
+    margin-top:50px;
+}

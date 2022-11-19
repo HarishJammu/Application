@@ -1,0 +1,17 @@
+.head{
+    font-size:60px;
+    text-align:center;
+}
+.avatar{
+    height:450px;
+    width:600px;
+    display:flex;
+    
+    align-items:center;
+}
+.background{
+    display:flex;
+    justify-content:center;
+    margin-top:30px;
+
+}

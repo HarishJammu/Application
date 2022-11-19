@@ -1,0 +1,16 @@
+.background-1{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items:center;
+    height:50px;
+    background-color:#0a0403;
+    padding-right:50px;
+}
+.list-item{
+    font-family:"Roboto";
+    font-size:18px;
+    color:#e6dddc;
+    padding-right:15px;
+    list-style:none;
+}

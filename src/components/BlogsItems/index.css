@@ -1,0 +1,53 @@
+.items-blogs{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+
+}
+.items-list{
+    display:flex;
+    flex-direction:row;
+    justify-content:flex-start;
+    align-items:center;
+    border:1px solid white;
+    width:600px;
+    margin-bottom:15px;
+}
+.image-items{
+    height:180px;
+    width:200px;
+    margin-right:10px;
+}
+.details-items{
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    
+}
+.user-details{
+    display:flex;
+    flex-direction:row;
+    justify-content:flex-start;
+    align-items:center;
+    
+}
+.userimage{
+    height:20px;
+    width:20px;
+    border-radius:10px;
+    margin-left:10px;
+}
+.author-name{
+    font-size:16px;
+    padding-left:10px;
+
+}
+.description{
+    font-size:15px;
+    padding-left:10px;
+}
+.title{
+    font-size:15px;
+    padding-left:10px;
+}
